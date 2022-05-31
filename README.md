@@ -47,6 +47,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 ## Deployed
 - [Check out my app here!](https://text-edit-jate.herokuapp.com/)
+- [Github Repo here!](https://github.com/laurenagra/editathon)
 
 ## Inspiration
  - GT Full-Stack Bootcamp Homework 19
