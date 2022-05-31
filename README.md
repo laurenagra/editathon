@@ -1,6 +1,15 @@
 # editathon
 Hw 19 PWA: Text Editor
 
+## Table of Contents 
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Deployed](#deployed)
+- [Author](#author)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [License](#license)
+
 ## User Story 
 ``` 
 AS A developer
@@ -36,3 +45,19 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+## Deployed
+- [Check out my app here!](https://text-edit-jate.herokuapp.com/)
+
+## Inspiration
+ - GT Full-Stack Bootcamp Homework 19
+
+## Author 
+Lauren Agra
+ - [LinkedIn](https://www.linkedin.com/in/lauren-agra-aa868b1b8/)
+ - [Github](https://github.com/laurenagra)
+
+## Status
+ Project complete as of May 31st
+
+## License 
+- [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
